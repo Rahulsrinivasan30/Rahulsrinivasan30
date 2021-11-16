@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul srinivasan
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web development,Flutter development,Docker,Graphic designing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on new projects
 
