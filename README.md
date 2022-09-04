@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul srinivasan
-- 👀 I’m interested in Web development, Flutter development, Docker, Graphic designing
-- 🌱 I’m currently learning Web development, Flutter development and Programming languages
+- 👀 I’m interested in Front-End Development.
+- 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on new projects
 
 
